@@ -1,7 +1,7 @@
 {
   "name": "vue-infinite-scroll",
-  "version": "2.0.2",
-  "description": "An infinite scroll directive for vue.js.",
+  "version": "1.0.0",
+  "description": "A fork of https://github.com/ChristophWurst/vue-infinite-scroll to remove console logs",
   "main": "vue-infinite-scroll.js",
   "jsnext:main": "./src/index.js",
   "scripts": {
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ElemeFE/vue-infinite-scroll.git"
+    "url": "https://https://github.com/AndreiMarchenko/vue-infinite-scroll.git"
   },
   "keywords": [
     "infinite-scroll",
     "vue"
   ],
-  "author": "long.zhang@ele.me",
+  "author": "andreymarchanka@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-es2015-rollup": "^3.0.0",
