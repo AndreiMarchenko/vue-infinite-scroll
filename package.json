@@ -1,5 +1,5 @@
 {
-  "name": "vue-infinite-scroll",
+  "name": "andrevue-infinite-scroll",
   "version": "1.0.0",
   "description": "A fork of https://github.com/ChristophWurst/vue-infinite-scroll to remove console logs",
   "main": "vue-infinite-scroll.js",
